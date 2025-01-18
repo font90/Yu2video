@@ -1,0 +1,5 @@
+tkinter       # Incluido en las instalaciones estándar de Python, no es necesario incluir si se usa junto con Python.
+yt-dlp==2023.10.7   # Para descargar videos, puedes actualizar a la última versión si es necesario.
+Pillow==10.0.1     # Librería para procesar imágenes (PIL fork.)
+pyperclip==1.8.2   # Manejador portapapeles
+urllib3 ==2.0.7 #para realizar peticiones http
